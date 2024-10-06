@@ -1,5 +1,7 @@
 # AnomalyDetector
 
+A Python script capable of detecting anomalies in a continuous data stream of floating pt numbers.
+
 - Clone this repository.
 - Change directory into this project directory
 
