@@ -17,3 +17,6 @@ pip install -r requirements.txt
 ```
 
 - Run the main.py file
+```bash
+pyhton main.py
+```
